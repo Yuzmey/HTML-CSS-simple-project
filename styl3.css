@@ -1,0 +1,52 @@
+*{
+    font-family: Verdana;
+    margin: 0;
+}
+
+.text-baner, .text-img {
+    background-color: seagreen;
+    color: white;
+    line-height: 150px;
+    font-size: 160%;
+}
+.text-baner {
+    width: 75%;
+    height: 260px;
+}
+.text-img {
+    align-items: right;
+    float: right;
+    width: 390px;
+    height: 260px;
+
+}
+.img-main{
+    width: 250px;
+    height: 255px;
+    box-shadow: 15px 15px 10px dimgray;
+}
+.main {
+    background-color: mintcream;
+    padding: 80px;
+}
+.stopka {
+    background-color: seagreen;
+    color: white;
+    height: 70px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    
+}
+.form {
+    margin-bottom: 20px;
+}
+.odnos {
+    text-decoration: none;
+    background-color: mintcream;
+    color: seagreen;
+    padding: 15px;
+    line-height: 70px;
+   
+    
+}
